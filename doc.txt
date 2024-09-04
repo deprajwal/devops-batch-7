@@ -1,1 +1,15 @@
-im devops engineer
+im devops enginee
+
+Minikube Installation Guide for Ubuntu
+This guide provides step-by-step instructions for installing Minikube on Ubuntu. Minikube allows you to run a single-node Kubernetes cluster locally for development and testing purposes.
+
+Pre-requisites
+Ubuntu OS
+sudo privileges
+Internet access
+Virtualization support enabled (Check with egrep -c '(vmx|svm)' /proc/cpuinfo, 0=disabled 1=enabled)
+Step 1: Update System Packages
+Update your package lists to make sure you are getting the latest version and dependencies.
+
+sudo apt update
+
