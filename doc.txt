@@ -13,3 +13,7 @@ Update your package lists to make sure you are getting the latest version and de
 
 sudo apt update
 
+
+
+hii frunds
+
